@@ -31,7 +31,7 @@ export default class SignIn extends Component {
 
   state = {
     email: 'johnatan.jcr@gmail.com',
-    password: '',
+    password: '123456',
     error: '',
   };
 
